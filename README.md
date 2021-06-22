@@ -5,4 +5,3 @@
 
 
 [![Build Status](https://build.vnapps.com/buildStatus/icon?job=banktranfer&subject=Version:${params.BUILD_VERSION}(%23${buildId})&status=[${startTime}]${params.BUILD_MESS|})](https://github.com/nghuyy/Release_Banktranfer)
-
