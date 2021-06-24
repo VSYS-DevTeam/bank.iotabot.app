@@ -1,4 +1,4 @@
 {
-    "version": "1.0.82-pre-dev",
-    "desc": "Fix gradle error"
+    "version": "1.0.83-pre-dev",
+    "desc": "Using Message from commit messages"
 }
