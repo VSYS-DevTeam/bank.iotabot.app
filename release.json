@@ -1,4 +1,4 @@
 {
-    "version": "1.0.80-develop",
-    "desc": "pd:Change build style"
+    "version": "1.0.82-pre-dev",
+    "desc": "Fix gradle error"
 }
