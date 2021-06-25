@@ -1,4 +1,4 @@
 {
-    "version": "1.0.84-pre-dev",
-    "desc": "Merge branch 'main' of github.com:VSYS-DevTeam/banktranfer into main"
+    "version": "refs/tags/1.0.85-pre-dev",
+    "desc": "Fix vietinbank filter"
 }
